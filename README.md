@@ -1,2 +1,2 @@
 # PowerBI_AayushKaul
-Power BI Project
+Hello, this project is about the attrition rate in a company.
